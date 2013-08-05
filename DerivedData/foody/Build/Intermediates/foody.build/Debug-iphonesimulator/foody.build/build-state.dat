@@ -1,0 +1,1262 @@
+Tfoody
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/Info.plist foody/foody-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.pth foody/foody-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody normal i386
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/InfoPlist.strings foody/en.lproj/InfoPlist.strings
+cCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib
+cCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib
+cCpResource foody/Resources/food-large.jpg DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg
+cCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib
+cCpResource foody/Resources/food.jpg DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg
+cCpResource foody/Resources/back-button@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.png
+cCpResource foody/Resources/back-button.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png
+cCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib
+cCpResource foody/Resources/button-pressed.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png
+cCpResource foody/Resources/button-pressed@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.png
+cCpResource foody/Resources/button.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.png
+cCpResource foody/Resources/button@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png
+cCpResource foody/Resources/country.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png
+cCpResource foody/Resources/country@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png
+cCpResource foody/Resources/details-photo-mask@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png
+cCpResource foody/Resources/details-photo-mask.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.png
+cCpResource foody/Resources/ingredients-list.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png
+cCpResource foody/Resources/ingredients-list@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png
+cCpResource foody/Resources/input-text@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png
+cCpResource foody/Resources/input-text.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png
+cCpResource foody/Resources/leather-background.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.png
+cCpResource foody/Resources/list-item.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png
+cCpResource foody/Resources/list-item@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png
+cCpResource foody/Resources/leather-background@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png
+cCpResource foody/Resources/list-mask.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.png
+cCpResource foody/Resources/list-mask@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.png
+cCpResource foody/Resources/navbar-icon.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png
+cCpResource foody/Resources/navbar-icon@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.png
+cCpResource foody/Resources/navbar.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png
+cCpResource foody/Resources/navbar@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png
+cCpResource foody/Resources/step-bullet@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png
+cCpResource foody/Resources/step-bullet.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.png
+cCpResource foody/Resources/tabbar-item.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.png
+cCpResource foody/Resources/tabbar-item@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png
+cCpResource foody/Resources/tabbar.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.png
+cCpResource foody/Resources/tabbar@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png
+cTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BC19FB0000000000000110
+t1371281915
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF1050000000000228FE0
+t1361899781
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF10700000000003DDFA0
+t1361899783
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF10D0000000000AB6230
+t1361899789
+s11231792
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.pth
+t1375681802
+s4675416
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.o
+t1375681802
+s95328
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.o
+t1375681802
+s7436
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.o
+t1375681802
+s7500
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.o
+t1375681802
+s11156
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.o
+t1375681802
+s76692
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.o
+t1375681802
+s78536
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.o
+t1375681802
+s89840
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.o
+t1375681802
+s20972
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.o
+t1375681802
+s12404
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.o
+t1375681802
+s37216
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.o
+t1375681802
+s29080
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.o
+t1375681802
+s71096
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/foody.LinkFileList
+c0000000051FF3D0900000000000009DB
+t1375681801
+s2523
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.o
+t1375681802
+s3348
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.o
+t1375681802
+s19356
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app
+t1375681807
+s1394
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM
+t1375681803
+s102
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/Info.plist
+t1375681801
+s813
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/PkgInfo
+t1375681801
+s8
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/RecipeCell.nib
+t1375681807
+s2374
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/RecipeDetail.nib
+t1375681807
+s2512
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/RecipeList.nib
+t1375681806
+s1067
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png
+t1375681806
+s4059
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.png
+t1375681806
+s5375
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png
+t1375681806
+s25814
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.png
+t1375681806
+s108093
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.png
+t1375681806
+s25877
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png
+t1375681806
+s109453
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png
+t1375681806
+s1054
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png
+t1375681806
+s1514
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.png
+t1375681806
+s9911
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png
+t1375681806
+s10896
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/InfoPlist.strings
+t1375681803
+s42
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/ViewController.nib
+t1375681806
+s862
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg
+t1375681806
+s33667
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg
+t1375681806
+s6571
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody
+t1375681803
+s112956
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png
+t1375681806
+s38754
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png
+t1375681806
+s88756
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png
+t1375681806
+s2437
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png
+t1375681806
+s5051
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.png
+t1375681806
+s224921
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png
+t1375681806
+s856930
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png
+t1375681806
+s1317
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png
+t1375681806
+s1853
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.png
+t1375681806
+s1453
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.png
+t1375681806
+s2355
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png
+t1375681806
+s2767
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.png
+t1375681806
+s4733
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png
+t1375681806
+s30124
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png
+t1375681806
+s127612
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.png
+t1375681806
+s1407
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png
+t1375681806
+s1981
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.png
+t1375681806
+s1005
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png
+t1375681806
+s2046
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.png
+t1375681806
+s30799
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png
+t1375681806
+s130995
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.h
+c000000004EB4093A000000000000019E
+t1320421690
+s414
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m
+c0000000051FF3CB600000000000001CD
+t1375681718
+s461
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.h
+c000000004EAFDE8E0000000000000188
+t1320148622
+s392
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m
+c000000004F141CA80000000000000CB2
+t1326718120
+s3250
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.h
+c000000004EB402BB0000000000000229
+t1320420027
+s553
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m
+c000000004EB8FFA1000000000000092D
+t1320746913
+s2349
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/JSON.h
+c000000004DDEC9B800000000000008F9
+t1306446264
+s2297
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.h
+c000000004DDEC9B80000000000000A01
+t1306446264
+s2561
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m
+c000000004EB3F95E000000000000086C
+t1320417630
+s2156
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.h
+c000000004DDEC9B80000000000000916
+t1306446264
+s2326
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m
+c000000004EB3F95D000000000000084B
+t1320417629
+s2123
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.h
+c000000004DDEC9B80000000000000AED
+t1306446264
+s2797
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m
+c000000004EB3F95D00000000000019FB
+t1320417629
+s6651
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.h
+c000000004DDEC9B80000000000000B82
+t1306446264
+s2946
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m
+c000000004EB3F95D0000000000000A65
+t1320417629
+s2661
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.h
+c000000004DDEC9B80000000000000C0B
+t1306446264
+s3083
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m
+c000000004EB3F97B00000000000036B0
+t1320417659
+s14000
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.h
+c000000004DDEC9B80000000000001140
+t1306446264
+s4416
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m
+c000000004EB3F9740000000000001F2F
+t1320417652
+s7983
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.h
+c000000004EB406E800000000000001C5
+t1320421096
+s453
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m
+c0000000051FF3C9100000000000005DB
+t1375681681
+s1499
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib
+c0000000051FF0D2C000000000000362E
+t1375669548
+s13870
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.h
+c000000004EB40A2200000000000001C9
+t1320421922
+s457
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m
+c000000004EB40A6700000000000006C3
+t1320421991
+s1731
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib
+c0000000051FF0D2C0000000000003632
+t1375669548
+s13874
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.h
+c000000004EB4044E0000000000000144
+t1320420430
+s324
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m
+c000000004F141D2F00000000000015B6
+t1326718255
+s5558
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib
+c000000004F141D310000000000001619
+t1326718257
+s5657
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/back-button.png
+c000000004EFB5EAB0000000000000FDB
+t1325096619
+s4059
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/back-button@2x.png
+c000000004EFB5E7300000000000014FF
+t1325096563
+s5375
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button-pressed.png
+c000000004EA72E8000000000000064D6
+t1319579264
+s25814
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button-pressed@2x.png
+c000000004EA012BE000000000001A63D
+t1319113406
+s108093
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button.png
+c000000004EA72E800000000000006515
+t1319579264
+s25877
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button@2x.png
+c000000004EA012A0000000000001AB8D
+t1319113376
+s109453
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/country.png
+c000000004EA72E80000000000000041E
+t1319579264
+s1054
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/country@2x.png
+c000000004EA0158C00000000000005EA
+t1319114124
+s1514
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/details-photo-mask.png
+c000000004EA72E8000000000000026B7
+t1319579264
+s9911
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/details-photo-mask@2x.png
+c000000004EA014C20000000000002A90
+t1319113922
+s10896
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/food-large.jpg
+c000000004EA739A60000000000008383
+t1319582118
+s33667
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/food.jpg
+c000000004EA7351600000000000019AB
+t1319580950
+s6571
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/ingredients-list.png
+c000000004EA72E800000000000009762
+t1319579264
+s38754
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/ingredients-list@2x.png
+c000000004EA015220000000000015AB4
+t1319114018
+s88756
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/input-text.png
+c000000004EA72E810000000000000985
+t1319579265
+s2437
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/input-text@2x.png
+c000000004EA0132800000000000013BB
+t1319113512
+s5051
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/leather-background.png
+c000000004EA72E810000000000036E99
+t1319579265
+s224921
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/leather-background@2x.png
+c000000004EA0137400000000000D1362
+t1319113588
+s856930
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-item.png
+c000000004EA72E810000000000000525
+t1319579265
+s1317
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-item@2x.png
+c000000004EA013C4000000000000073D
+t1319113668
+s1853
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-mask.png
+c000000004EA72E8100000000000005AD
+t1319579265
+s1453
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-mask@2x.png
+c000000004EA015B20000000000000933
+t1319114162
+s2355
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar-icon.png
+c000000004EA73F970000000000000ACF
+t1319583639
+s2767
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar-icon@2x.png
+c000000004EA73FA9000000000000127D
+t1319583657
+s4733
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar.png
+c000000004EA72E8100000000000075AC
+t1319579265
+s30124
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar@2x.png
+c000000004EA0114E000000000001F27C
+t1319113038
+s127612
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/step-bullet.png
+c000000004EA72E82000000000000057F
+t1319579266
+s1407
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/step-bullet@2x.png
+c000000004EA013A600000000000007BD
+t1319113638
+s1981
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar-item.png
+c000000004EA72E8300000000000003ED
+t1319579267
+s1005
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar-item@2x.png
+c000000004EA0119000000000000007FE
+t1319113104
+s2046
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar.png
+c000000004EA72E83000000000000784F
+t1319579267
+s30799
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar@2x.png
+c000000004EA01178000000000001FFB3
+t1319113080
+s130995
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.h
+c000000004EAFD45B00000000000000D7
+t1320146011
+s215
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m
+c000000004EAFD45B000000000000049E
+t1320146011
+s1182
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/InfoPlist.strings
+c000000004EAFD45B000000000000002D
+t1320146011
+s45
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib
+c000000004EAFD45B000000000000146B
+t1320146011
+s5227
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/foody-Prefix.pch
+c000000004EAFD45B0000000000000139
+t1320146011
+s313
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m
+c000000004EAFD45B0000000000000150
+t1320146011
+s336
+
+Nfoody/foody-Info.plist
+c000000004EAFD45B00000000000004BA
+t1320146011
+s1210
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc3bb84ec74afb741^732a85ec74afb741^---0#1#0#--18"Check dependencies36"C826EC07-E8C5-46AA-90EE-B2322C9DBACE-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.549850
+e397374602.723262
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m37fe8c8a74afb741^062cb98a74afb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m0000000000000000^4076"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.o foody/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/AppDelegate.o36"E64E0346-2A74-47E2-B81F-34048DA36DF6-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.634739
+e397374602.686038
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m8cbaa28a74afb741^129faf8a74afb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m0000000000000000^4110"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.o foody/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSObject+SBJSON.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSObject+SBJSON.o36"96297EA1-63BA-453E-A585-A1542A1EE3BE-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.166708
+e397374602.548486
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m8ee82a8a74afb741^76708c8a74afb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m0000000000000000^4110"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.o foody/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/NSString+SBJSON.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/NSString+SBJSON.o36"CF660B2B-D802-489A-9B83-6519752B38EA-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.791432
+e397374602.857022
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.md8d7ca8a74afb741^946adb8a74afb741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m0000000000000000^4034"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.o Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/Recipe.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/Recipe.o36"E6E70FE4-7CEC-4276-8093-87EECA5420B9-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.166674
+e397374602.552410
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m:41:13: warning: unused variable 'imageData' [-Wunused-variable]
+o    NSData *imageData = [NSData dataWithContentsOfURL:url];
+o            ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.ma3e72a8a74afb741^2b698d8a74afb741^-241"/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m:41:13: warning: unused variable 'imageData' [-Wunused-variable]    NSData *imageData = [NSData dataWithContentsOfURL:url];            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"Unused variable 'imageData'-397374602#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@97"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m0000000000000000^40#12#40#12#992#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m0000000000000000^4070"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.o foody/RecipeCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeCell.o36"62E018B7-B28F-49D1-9D04-86475BF3DB38-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.166698
+e397374602.633358
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m14e92a8a74afb741^7022a28a74afb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m0000000000000000^4082"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.o foody/RecipeDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeDetail.o36"B596F77B-B778-40EC-A6D6-D5C77BDACD8A-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.553873
+e397374602.790008
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.meb028e8a74afb741^454bca8a74afb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m0000000000000000^4070"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.o foody/RecipeList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/RecipeList.o36"0410D61E-FF60-4E10-834A-5F29F3083BE7-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.687441
+e397374602.759476
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m1e37b08a74afb741^a06ec48a74afb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m0000000000000000^4056"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.o foody/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJSON.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJSON.o36"2C65A84B-E57E-454C-90A1-2DE99DA588FB-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.694698
+e397374602.758492
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.md313b28a74afb741^b266c48a74afb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m0000000000000000^4080"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.o foody/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonBase.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonBase.o36"736DDDB2-7B9C-4209-BAE5-C10F984AE46E-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.724660
+e397374602.880058
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m8cbfb98a74afb741^6f4ae18a74afb741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m0000000000000000^4092"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.o foody/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonParser.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonParser.o36"AB34ECC0-C59C-45A5-A3E5-DDAF81FAAC5C-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.759894
+e397374602.884639
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.mdacbc28a74afb741^a377e28a74afb741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m0000000000000000^4092"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.o foody/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON/SBJsonWriter.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/SBJsonWriter.o36"4DF5BF47-C51D-4DB1-9E29-17C9FFBF50E0-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.549843
+e397374602.693285
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.mb9ff8c8a74afb741^0282b18a74afb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m0000000000000000^4094"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.o foody/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/ViewController.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/ViewController.o36"DF1BC3FA-18C6-4F5D-A7EA-658FE56558DA-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.166681
+e397374602.548496
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m97e62a8a74afb741^62698c8a74afb741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m0000000000000000^4034"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.o foody/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/main.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/main.o36"996877BF-B3CF-47CC-97B8-AEAC2C4D1835-
+
+CCompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374602.760909
+e397374602.837966
+r1
+xCompileC
+xDerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m09ffc28a74afb741^53cfd68a74afb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m0000000000000000^4064"CompileC DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.o foody/JSON-Url/myJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/JSON-Url/myJson.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/myJson.o36"93ECB7B8-51AF-4A27-ADE9-EA89F5E8BD38-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib
+s397374603.167829
+e397374607.259492
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib63282b8b74afb741^bf7c428f74afb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib0000000000000000^968"CompileXIB foody/RecipeCell.xib    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/RecipeCell.nib /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeCell.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"1E00B989-17F6-4A91-AF10-2B1262CC80D2-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib
+s397374603.177113
+e397374607.494475
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib96772d8b74afb741^b8957e8f74afb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib0000000000000000^974"CompileXIB foody/RecipeDetail.xib    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/RecipeDetail.nib /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeDetail.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"EB922513-5EC3-4B62-83B5-8623BC53C0FB-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib
+s397374603.167444
+e397374606.404715
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib2a1a2b8b74afb741^6b9e678e74afb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib0000000000000000^968"CompileXIB foody/RecipeList.xib    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/RecipeList.nib /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/RecipeList.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"11BB08E2-2615-41A2-9ADA-99BEEB92B30E-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib
+s397374603.167398
+e397374606.402344
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib59172b8b74afb741^e3ff668e74afb741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib0000000000000000^1007"CompileXIB foody/en.lproj/ViewController.xib    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/ViewController.nib /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"382B24E1-9FC1-4969-BE6D-A73896ED7DBB-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/InfoPlist.strings foody/en.lproj/InfoPlist.strings
+s397374603.167384
+e397374603.175770
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/InfoPlist.strings
+xfoody/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy foody/en.lproj/InfoPlist.stringse8bb2b8b74afb741^96072d8b74afb741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/en.lproj/InfoPlist.strings0000000000000000^669"CopyStringsFile DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj/InfoPlist.strings foody/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/en.lproj -- foody/en.lproj/InfoPlist.strings36"3A70B5A2-DAAB-43E7-95E5-13C4CA54FA26-
+
+CCpResource foody/Resources/back-button.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png
+s397374606.420760
+e397374606.425134
+r1
+xCpResource
+xfoody/Resources/back-button.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png1bd76b8e74afb741^c6dd6c8e74afb741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png000000000080d041^724"CpResource foody/Resources/back-button.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/back-button.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"E270AF41-9A5E-40FB-BE8E-EDDB23CE0E8E-
+
+CCpResource foody/Resources/back-button@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.png
+s397374606.423349
+e397374606.427236
+r1
+xCpResource
+xfoody/Resources/back-button@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.pngc3816c8e74afb741^8d5e6d8e74afb741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.png000000000080d041^739"CpResource "foody/Resources/back-button@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/back-button@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/back-button@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"C83A177E-543D-44E7-A728-0AA0935B9925-
+
+CCpResource foody/Resources/button-pressed.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png
+s397374606.426645
+e397374606.437663
+r1
+xCpResource
+xfoody/Resources/button-pressed.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png4f596d8e74afb741^1c0c718e74afb741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png000000000080d041^733"CpResource foody/Resources/button-pressed.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button-pressed.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"F19C0842-F9EE-475F-ABA9-A2B32E4B3CCF-
+
+CCpResource foody/Resources/button-pressed@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.png
+s397374606.428801
+e397374606.443190
+r1
+xCpResource
+xfoody/Resources/button-pressed@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.pngcde66d8e74afb741^9e7d718e74afb741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.png000000000080d041^748"CpResource "foody/Resources/button-pressed@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button-pressed@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button-pressed@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"52C43443-61AB-400A-90B3-101C0C6412BA-
+
+CCpResource foody/Resources/button.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.png
+s397374606.442246
+e397374606.453481
+r1
+xCpResource
+xfoody/Resources/button.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.pngbc57718e74afb741^9224748e74afb741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.png000000000080d041^709"CpResource foody/Resources/button.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"4974EACF-2504-4E20-9886-43ACAAC93D46-
+
+CCpResource foody/Resources/button@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png
+s397374606.448367
+e397374606.456217
+r1
+xCpResource
+xfoody/Resources/button@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png85ea728e74afb741^34d8748e74afb741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png000000000080d041^724"CpResource "foody/Resources/button@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/button@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/button@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"D225465A-5287-4AE2-A317-A0B82E7EF147-
+
+CCpResource foody/Resources/country.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png
+s397374606.455059
+e397374606.463071
+r1
+xCpResource
+xfoody/Resources/country.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png9da1748e74afb741^ce8c768e74afb741^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png000000000080d041^712"CpResource foody/Resources/country.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/country.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"9A149AAD-B009-4F8A-BCB6-C093D26E9EB2-
+
+CCpResource foody/Resources/country@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png
+s397374606.458512
+e397374606.463058
+r1
+xCpResource
+xfoody/Resources/country@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png8483758e74afb741^da91768e74afb741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png000000000080d041^727"CpResource "foody/Resources/country@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/country@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/country@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"11AFA27B-CB08-4A4A-8095-BA79493ABB07-
+
+CCpResource foody/Resources/details-photo-mask.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.png
+s397374606.465425
+e397374606.471763
+r1
+xCpResource
+xfoody/Resources/details-photo-mask.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.pnge947778e74afb741^76c5788e74afb741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.png000000000080d041^745"CpResource foody/Resources/details-photo-mask.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/details-photo-mask.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"3263335C-05B6-4B41-8C5C-FBDEE0415DEB-
+
+CCpResource foody/Resources/details-photo-mask@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png
+s397374606.465626
+e397374606.472535
+r1
+xCpResource
+xfoody/Resources/details-photo-mask@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png3b54778e74afb741^9703798e74afb741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png000000000080d041^760"CpResource "foody/Resources/details-photo-mask@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/details-photo-mask@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/details-photo-mask@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"1DB3BDAF-AFCB-44AA-9017-84B3A8B019BF-
+
+CCpResource foody/Resources/food-large.jpg DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg
+s397374606.404422
+e397374606.418210
+r1
+xCpResource
+xfoody/Resources/food-large.jpg
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg0cac678e74afb741^05876b8e74afb741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg000000000080d041^721"CpResource foody/Resources/food-large.jpg DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food-large.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/food-large.jpg /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"C228EF2C-7071-48EB-9D92-8BE51A1A6357-
+
+CCpResource foody/Resources/food.jpg DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg
+s397374606.408363
+e397374606.421201
+r1
+xCpResource
+xfoody/Resources/food.jpg
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg7bbc688e74afb741^1adf6b8e74afb741^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg000000000080d041^703"CpResource foody/Resources/food.jpg DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/food.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/food.jpg /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"FE093E59-F252-48F4-B936-0CCCC6387B85-
+
+CCpResource foody/Resources/ingredients-list.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png
+s397374606.473189
+e397374606.480313
+r1
+xCpResource
+xfoody/Resources/ingredients-list.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png2041798e74afb741^40f67a8e74afb741^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png000000000080d041^739"CpResource foody/Resources/ingredients-list.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/ingredients-list.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"7EC918C6-2F1E-49D7-A255-214549DA16C6-
+
+CCpResource foody/Resources/ingredients-list@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png
+s397374606.473927
+e397374606.482669
+r1
+xCpResource
+xfoody/Resources/ingredients-list@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png3672798e74afb741^a60c7c8e74afb741^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png000000000080d041^754"CpResource "foody/Resources/ingredients-list@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/ingredients-list@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/ingredients-list@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"F6990E49-D1A8-4F7F-B8C2-C27936C11D41-
+
+CCpResource foody/Resources/input-text.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png
+s397374606.481979
+e397374606.489565
+r1
+xCpResource
+xfoody/Resources/input-text.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png0d897b8e74afb741^815d7d8e74afb741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png000000000080d041^721"CpResource foody/Resources/input-text.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/input-text.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"D19F83BB-D6FA-4480-912D-F67375414EAE-
+
+CCpResource foody/Resources/input-text@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png
+s397374606.487080
+e397374606.491017
+r1
+xCpResource
+xfoody/Resources/input-text@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png67d47c8e74afb741^1ec17d8e74afb741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png000000000080d041^736"CpResource "foody/Resources/input-text@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/input-text@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/input-text@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"1A952B79-37C4-463C-BD86-062B1D0575BC-
+
+CCpResource foody/Resources/leather-background.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.png
+s397374606.490930
+e397374606.501460
+r1
+xCpResource
+xfoody/Resources/leather-background.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.pngeecf7d8e74afb741^dd7b808e74afb741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.png000000000080d041^745"CpResource foody/Resources/leather-background.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/leather-background.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"2D6707E0-3780-4F5A-BD7E-703D43404825-
+
+CCpResource foody/Resources/leather-background@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png
+s397374606.492370
+e397374606.520452
+r1
+xCpResource
+xfoody/Resources/leather-background@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png7a377e8e74afb741^f773868e74afb741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png000000000080d041^760"CpResource "foody/Resources/leather-background@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/leather-background@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/leather-background@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"3D962446-CBFC-4436-8D36-DCE32FDFCC5F-
+
+CCpResource foody/Resources/list-item.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png
+s397374606.502760
+e397374606.506159
+r1
+xCpResource
+xfoody/Resources/list-item.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png8cd7808e74afb741^7fa3818e74afb741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png000000000080d041^718"CpResource foody/Resources/list-item.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-item.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"55A07D91-F1C8-4A7B-8AA6-68E737C5329D-
+
+CCpResource foody/Resources/list-item@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png
+s397374606.507502
+e397374606.515319
+r1
+xCpResource
+xfoody/Resources/list-item@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png4910828e74afb741^3222858e74afb741^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png000000000080d041^733"CpResource "foody/Resources/list-item@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-item@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-item@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"58BA41E6-66C8-4A40-83EA-1D3E3ED20F4E-
+
+CCpResource foody/Resources/list-mask.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.png
+s397374606.525078
+e397374606.528518
+r1
+xCpResource
+xfoody/Resources/list-mask.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.pngfc8d868e74afb741^4a99888e74afb741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.png000000000080d041^718"CpResource foody/Resources/list-mask.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-mask.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"301E196F-EB12-459A-90D2-89F445BDADD0-
+
+CCpResource foody/Resources/list-mask@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.png
+s397374606.529825
+e397374606.535821
+r1
+xCpResource
+xfoody/Resources/list-mask@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.pngfcc2878e74afb741^b43e898e74afb741^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.png000000000080d041^733"CpResource "foody/Resources/list-mask@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/list-mask@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/list-mask@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"12F84E7B-A527-4670-BC17-12E1114018C9-
+
+CCpResource foody/Resources/navbar-icon.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png
+s397374606.532247
+e397374606.558915
+r1
+xCpResource
+xfoody/Resources/navbar-icon.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png6a67888e74afb741^7a368f8e74afb741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png000000000080d041^724"CpResource foody/Resources/navbar-icon.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar-icon.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"A1A7CEE7-39C0-4E91-94D5-76960BE57416-
+
+CCpResource foody/Resources/navbar-icon@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.png
+s397374606.559163
+e397374606.565984
+r1
+xCpResource
+xfoody/Resources/navbar-icon@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.pngf0518f8e74afb741^f3e6908e74afb741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.png000000000080d041^739"CpResource "foody/Resources/navbar-icon@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar-icon@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar-icon@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"FA77F288-483A-4D0E-82C0-95F1161EF5A0-
+
+CCpResource foody/Resources/navbar.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png
+s397374606.559391
+e397374606.566853
+r1
+xCpResource
+xfoody/Resources/navbar.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png15558f8e74afb741^732e918e74afb741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png000000000080d041^709"CpResource foody/Resources/navbar.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"F57A04D1-358B-4A95-8A33-01BAB477776D-
+
+CCpResource foody/Resources/navbar@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png
+s397374606.567468
+e397374606.576609
+r1
+xCpResource
+xfoody/Resources/navbar@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png2367918e74afb741^f0a2938e74afb741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png000000000080d041^724"CpResource "foody/Resources/navbar@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/navbar@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/navbar@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"974D5573-711C-42C8-ABC3-EB33562C250F-
+
+CCpResource foody/Resources/step-bullet.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.png
+s397374606.567496
+e397374606.572040
+r1
+xCpResource
+xfoody/Resources/step-bullet.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.pngf964918e74afb741^8a75928e74afb741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.png000000000080d041^724"CpResource foody/Resources/step-bullet.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/step-bullet.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"095FFA08-71FA-4BFC-9CEB-DBC00D69054D-
+
+CCpResource foody/Resources/step-bullet@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png
+s397374606.575453
+e397374606.580448
+r1
+xCpResource
+xfoody/Resources/step-bullet@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png4b73938e74afb741^05c4948e74afb741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png000000000080d041^739"CpResource "foody/Resources/step-bullet@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/step-bullet@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/step-bullet@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"B4E83269-7DDB-4747-89FE-4F3972D7D781-
+
+CCpResource foody/Resources/tabbar-item.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.png
+s397374606.579629
+e397374606.585755
+r1
+xCpResource
+xfoody/Resources/tabbar-item.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.pngd880948e74afb741^87fe958e74afb741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.png000000000080d041^724"CpResource foody/Resources/tabbar-item.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar-item.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"EC51AF28-DB90-44C3-A3B9-85621A2D01D0-
+
+CCpResource foody/Resources/tabbar-item@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png
+s397374606.584578
+e397374606.590091
+r1
+xCpResource
+xfoody/Resources/tabbar-item@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png65c8958e74afb741^ba84978e74afb741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png000000000080d041^739"CpResource "foody/Resources/tabbar-item@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar-item@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar-item@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"0D330DF8-4473-4C30-B3DA-38ABB07FE5E6-
+
+CCpResource foody/Resources/tabbar.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.png
+s397374606.587191
+e397374606.592143
+r1
+xCpResource
+xfoody/Resources/tabbar.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.pngc972968e74afb741^bed8978e74afb741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.png000000000080d041^709"CpResource foody/Resources/tabbar.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar.png /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"5555D5B8-364D-4136-9623-8474FFC08339-
+
+CCpResource foody/Resources/tabbar@2x.png DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png
+s397374606.592377
+e397374606.598643
+r1
+xCpResource
+xfoody/Resources/tabbar@2x.png
+xDerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png0dc7978e74afb741^6550998e74afb741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png000000000080d041^724"CpResource "foody/Resources/tabbar@2x.png" "DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/tabbar@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/Resources/tabbar@2x.png" /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"04AEC2E6-22B0-475E-AFE4-FB3AB81639D6-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody
+s397374603.097461
+e397374603.158590
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generate /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM4819198b74afb741^8198288b74afb741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM000000000080d041^793"GenerateDSYMFile DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app.dSYM36"9D4C2993-2071-4AFC-89DD-C9D90C63429E-
+
+CLd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody normal i386
+s397374602.891119
+e397374603.090201
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody143de48a74afb741^7a17178b74afb741^---0#0#0#--1393"Ld DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody normal i386    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator -filelist /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/Objects-normal/i386/foody.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/foody36"BD27DF1B-068B-4028-8A4F-6C8488CC2657-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/Info.plist foody/foody-Info.plist
+s397374601.076421
+e397374601.081539
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/Info.plist
+xfoody/foody-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process foody/foody-Info.plist77f4138974afb741^5e84158974afb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/foody-Info.plist0000000000000000^789"ProcessInfoPlistFile DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/Info.plist foody/foody-Info.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility foody/foody-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app/Info.plist36"A6BFFB44-9273-47B3-A66F-728356EEF7D4-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.pth foody/foody-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397374601.089750
+e397374602.159612
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.pth
+xfoody/foody-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile foody/foody-Prefix.pcha131178974afb741^59db288a74afb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/foody-Prefix.pch0000000000000000^3907"ProcessPCH DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.pth foody/foody-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/foody-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/foody.build/Debug-iphonesimulator/foody.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/foody/foody-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Intermediates/PrecompiledHeaders/foody-Prefix-dayqlkucntjrnuhgswvablylujkx/foody-Prefix.pch.d36"04EFBA9D-F90F-4367-8B21-F31A973D0FF9-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Index/PrecompiledHeaders/foody-Prefix-ckztancykcjcpyeorfqpryqldvoq_ast/foody-Prefix.pch.pth foody/foody-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app
+s397374607.502707
+e397374607.516097
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Touch /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app70ce808f74afb741^cd1e848f74afb741^---0#0#0#--486"Touch DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/cocos2dx/sample-project-foody/DerivedData/foody/Build/Products/Debug-iphonesimulator/foody.app36"AD14B32D-9521-403B-8DC5-8F41C7EC23AE-
+
